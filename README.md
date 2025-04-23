@@ -1,7 +1,5 @@
 # Lung_Cancer_Detection_Machine_Learning
 
-# Lung_Cancer_Detection_Machine_Learning
-
 This project focuses on detecting lung cancer using machine learning techniques. It includes a complete pipeline from data preprocessing, model training, evaluation, to visualization. The goal is to assist in early diagnosis of lung cancer using clinical or imaging data.
 
 📁 Project Structure
